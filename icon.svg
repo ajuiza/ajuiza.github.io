@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" fill="none">
+  <rect width="512" height="512" rx="112" fill="#0F172A"/>
+  <rect x="28" y="28" width="456" height="456" rx="88" stroke="#D4A853" stroke-opacity="0.28" stroke-width="4"/>
+  <!-- Architectural Legal Pillar / Stylized "A" Scales -->
+  <path d="M256 96L134 396H186L212 328H300L326 396H378L256 96ZM228 282L256 204L284 282H228Z" fill="#FAF8F5"/>
+  <!-- Balance Beam Accent -->
+  <rect x="148" y="138" width="216" height="14" rx="7" fill="#D4A853"/>
+  <circle cx="256" cy="145" r="14" fill="#D4A853"/>
+  <path d="M164 152L144 210H184L164 152Z" fill="#D4A853" fill-opacity="0.85"/>
+  <path d="M348 152L328 210H368L348 152Z" fill="#D4A853" fill-opacity="0.85"/>
+  <rect x="176" y="416" width="160" height="8" rx="4" fill="#D4A853" fill-opacity="0.65"/>
+</svg>
